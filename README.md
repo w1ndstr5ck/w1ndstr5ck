@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @w1ndstr5ck
 - 👀 I’m interested in Accounting, Machine Learning, and Blockchain
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on any project that I think will make the world a batter place
+- 💞️ I’m looking to collaborate on any project that I think will make the world a better place
 - 📫 How to reach me email: wyatt.n.lindquist@gmail.com
 
 <!---
